@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "AngSample"
+    }
+  },
+  "defaultProject": "AngSample",
+  "cli": {
+    "analytics": false
+  }
 }
