@@ -1,0 +1,5 @@
+if you have to push the code then you have to follow below steps:-
+
+i)add files to local respository
+ii)commited files
+iii)push to master repository
